@@ -41,6 +41,7 @@ Developed by: RegisterNumber:*/
 **RTL realization**
 
 **Output:**
+![boolean function](https://github.com/Tanushreea05/BOOLEAN_FUNCTION_MINIMIZATION/assets/138849166/5bdf7a36-5e6e-4acf-a56d-83332873a87a)
 
 **RTL**
 
